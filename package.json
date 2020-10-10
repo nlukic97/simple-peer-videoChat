@@ -1,0 +1,19 @@
+{
+  "name": "mychat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "simple-peer": "^9.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
